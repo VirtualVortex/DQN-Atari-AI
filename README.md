@@ -1,5 +1,5 @@
 # DQN AI playing Asterix Atari game
-This repo contains my COMP704 Machine Learning AI project, which is a DQN AI, learning how to play the Atari game Asterix. 
+This repo contains my COMP704 Machine Learning AI project, which is a DQN AI, learning how to play the Atari game Asterix. Please note that MO214885 is my student github account
 
 **Requirements:**
 
